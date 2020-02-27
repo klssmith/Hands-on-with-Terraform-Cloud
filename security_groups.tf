@@ -30,3 +30,5 @@ resource "aws_security_group" "instances" {
   }
 
 }
+
+banjax_the_code()
